@@ -32,4 +32,15 @@ const LOJAS = [
     fundoLogo: '#ECE6DC',
     instagram: 'https://www.instagram.com/atelie_noli',
   },
+  {
+    nome: 'Pipocou',
+    endereco: 'https://pipocou.onrender.com',
+    categoria: 'App',
+    segmento: 'Filmes e séries',
+    descricao: 'Diário de filmes e séries em forma de mural. Dê nota, marque a pipoca no que curtiu, monte pastas e veja o que a galera está assistindo.',
+    capa: 'assets/lojas/pipocou.jpg',
+    logo: 'assets/lojas/pipocou-logo.png',
+    cor: '#E60023',
+    fundoLogo: '#FFFFFF',
+  },
 ];
