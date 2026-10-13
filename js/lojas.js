@@ -6,13 +6,13 @@
 const TAVI_STUDIO = {
   // Link para quem quiser uma vitrine (WhatsApp, Instagram, e-mail...).
   // Deixe vazio ('') para esconder o convite no fim da página.
-  contato: 'https://ig.me/m/viitrinebr',
-  instagram: 'https://www.instagram.com/viitrinebr',
+  contato: 'https://ig.me/m/tavii_studio',
+  instagram: 'https://www.instagram.com/tavii_studio',
   contatoTexto: 'Quero minha vitrine',
 };
 
 /* ---------------------------------------------------------
-   - endereco: o nome do repositório (vitrinebr.github.io/ENDERECO/)
+   - endereco: o nome do repositório (studiotavi.github.io/ENDERECO/)
      ou um link completo (https://...) se a loja tiver domínio próprio
    - capa: imagem em assets/lojas/ (de preferência 1200 × 900)
    - logo: opcional, PNG sem fundo em assets/lojas/
