@@ -6,8 +6,8 @@
 const TAVI_STUDIO = {
   // Link para quem quiser uma vitrine (WhatsApp, Instagram, e-mail...).
   // Deixe vazio ('') para esconder o convite no fim da página.
-  contato: 'https://ig.me/m/tavii_studio',
-  instagram: 'https://www.instagram.com/tavii_studio',
+  contato: 'https://ig.me/m/euthigo.a',
+  instagram: 'https://www.instagram.com/euthigo.a',
   contatoTexto: 'Quero minha vitrine',
 };
 
