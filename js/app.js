@@ -1,4 +1,4 @@
-/* vitrinebr: monta a grade de lojas a partir de js/lojas.js */
+/* Tavi studio: monta a grade de lojas a partir de js/lojas.js */
 (() => {
   const $ = (s) => document.querySelector(s);
   const esc = (t) => String(t ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -48,10 +48,10 @@
   $('#conta').textContent = `${LOJAS.length} ${LOJAS.length === 1 ? 'vitrine' : 'vitrines'}`;
   $('#ano').textContent = new Date().getFullYear();
 
-  if (VITRINEBR.contato) {
+  if (TAVI_STUDIO.contato) {
     $('#convite').hidden = false;
-    $('#convite-link').href = VITRINEBR.contato;
-    $('#convite-link').textContent = VITRINEBR.contatoTexto || 'Quero uma vitrine';
+    $('#convite-link').href = TAVI_STUDIO.contato;
+    $('#convite-link').textContent = TAVI_STUDIO.contatoTexto || 'Quero uma vitrine';
   }
 
   /* ---------- Movimento ---------- */

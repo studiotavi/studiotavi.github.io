@@ -1,9 +1,9 @@
 /* =========================================================
-   VITRINEBR: lista de lojas
+   TAVI STUDIO: lista de lojas
    Para adicionar uma loja nova, copie um bloco { ... } e troque os dados.
    ========================================================= */
 
-const VITRINEBR = {
+const TAVI_STUDIO = {
   // Link para quem quiser uma vitrine (WhatsApp, Instagram, e-mail...).
   // Deixe vazio ('') para esconder o convite no fim da página.
   contato: 'https://ig.me/m/viitrinebr',
